@@ -1,1 +1,1 @@
-# Data-analyst-project
+# Data analysis project in PostgreSQL
